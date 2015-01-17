@@ -1,0 +1,43 @@
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/leon/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Merged dex A (122 defs/184.0KiB) with dex B (535 defs/572.2KiB). Result is 657 defs/926.4KiB. Took 0.5s
+Merged dex A (657 defs/926.4KiB) with dex B (4 defs/18.7KiB). Result is 661 defs/1223.0KiB. Took 0.1s
+Result compacted from 2352.0KiB to 1250.6KiB to save 1101.4KiB
+Merged dex A (661 defs/1223.0KiB) with dex B (399 defs/525.8KiB). Result is 1060 defs/1250.6KiB. Took 0.4s
+Merged dex A (1060 defs/1250.6KiB) with dex B (179 defs/167.6KiB). Result is 1239 defs/1742.1KiB. Took 0.2s
+Merged dex A (1239 defs/1742.1KiB) with dex B (200 defs/315.3KiB). Result is 1439 defs/2656.6KiB. Took 0.2s
+Result compacted from 3746.4KiB to 1723.4KiB to save 2023.0KiB
+Merged dex A (1439 defs/2656.6KiB) with dex B (37 defs/45.3KiB). Result is 1476 defs/1723.4KiB. Took 0.3s
+Merged dex A (122 defs/184.0KiB) with dex B (535 defs/572.2KiB). Result is 657 defs/926.4KiB. Took 0.1s
+Merged dex A (657 defs/926.4KiB) with dex B (4 defs/18.7KiB). Result is 661 defs/1223.0KiB. Took 0.2s
+Result compacted from 2352.0KiB to 1250.6KiB to save 1101.4KiB
+Merged dex A (661 defs/1223.0KiB) with dex B (399 defs/525.8KiB). Result is 1060 defs/1250.6KiB. Took 0.2s
+Merged dex A (1060 defs/1250.6KiB) with dex B (179 defs/167.6KiB). Result is 1239 defs/1742.1KiB. Took 0.1s
+Merged dex A (1239 defs/1742.1KiB) with dex B (200 defs/315.3KiB). Result is 1439 defs/2656.6KiB. Took 0.2s
+Result compacted from 3746.4KiB to 1723.4KiB to save 2023.0KiB
+Merged dex A (1439 defs/2656.6KiB) with dex B (37 defs/45.3KiB). Result is 1476 defs/1723.4KiB. Took 0.4s
+Logging activities to file: /home/leon/.Genymobile/genymotion.log
+Logging activities to file: /home/leon/.Genymobile/genymotion.log
+Logging activities to file: /home/leon/.Genymobile/Genymotion/deployed/Google Nexus 7 2013 - 4.4.4 - API 19 - 1200x1920/genymotion-player.log
+OpenGL connected to 192.168.56.101:25000
+Port 22468 will be used for OpenGL data connections
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/leon/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
