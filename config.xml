@@ -9,4 +9,9 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+    <gap:plugin name="com.ionic.keyboard"/>
+    <gap:plugin name="org.apache.cordova.file"/>
+    <gap:plugin name="org.apache.cordova.statusbar"/>
+    <gap:plugin name="org.apache.cordova.console"/>
 </widget>
